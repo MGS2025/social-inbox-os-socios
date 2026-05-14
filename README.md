@@ -20,4 +20,10 @@ Alcance: margen bruto del producto. Excluye sueldo del operador, CAC, herramient
 
 ## Versión
 
-v1.0 · 13 mayo 2026 · Marketing Global SEO
+v1.2 · 14 mayo 2026 · Marketing Global SEO
+
+### Historial
+
+- **v1.2** (14-may-2026): añadida sección 00 "Qué es Social Inbox OS" (definición del producto). OPEX revisado por tier con dashboard MGS-branded incluido en todos los tiers (+2 €/cliente). Nuevo bloque "Add-ons disponibles" en §3 con modelado de attach rate. Conclusiones ampliadas con 2 puntos (add-ons + dashboard).
+- **v1.1** (13-may-2026): añadida sección 10 "Competencia y posicionamiento" con análisis de 36 jugadores en 8 categorías.
+- **v1.0** (13-may-2026): primera entrega — auditoría económica con 5 escenarios + 9 secciones.
